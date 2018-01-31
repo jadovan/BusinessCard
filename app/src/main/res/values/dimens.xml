@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="logoHeight">200dp</dimen>
+    <dimen name="logoPadding">16dp</dimen>
+    <dimen name="nameMargin">16dp</dimen>
+    <dimen name="nameTxtSize">23sp</dimen>
+    <dimen name="infoPadding">8dp</dimen>
+    <dimen name="infoTxtSize">18sp</dimen>
+</resources>
