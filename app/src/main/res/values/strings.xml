@@ -1,9 +1,9 @@
 <resources>
     <string name="app_name">Business Card</string>
     <string name="companyName">MCAS Cherry Point Distribution Management Office</string>
-    <string name="phoneNumber">Phone Number: 252-466-2345</string>
-    <string name="companyEmail">Email: chptsupplydmo@usmc.mil</string>
-    <string name="companyAddress">Address: 298 E St. Cherry Point, NC 28533</string>
+    <string name="phoneNumber">252-466-2345</string>
+    <string name="companyEmail">chptsupplydmo@usmc.mil</string>
+    <string name="companyAddress">298 E St. Cherry Point, NC 28533</string>
     <string name="hoursOfOperation">Hours of Operation: 0730 - 1630</string>
 
 </resources>
